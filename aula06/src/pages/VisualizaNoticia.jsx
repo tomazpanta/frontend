@@ -7,7 +7,7 @@ const VisualizaNoticia = () => {
 
 const { id } = useParams()
 
-const url = `http://localhost:3000/nonticias/${id}`
+const url = `http://localhost:3000/noticias/${id}`
 
 const [noticia, setNoticia] = useState({})
 

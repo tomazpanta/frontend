@@ -1,9 +1,9 @@
 import React from 'react'
 
-const DpoLgpd = () => {
+const Faculdade = () => {
   return (
-    <div>Aqui será a página dpo</div>
+    <div>Aqui será a página sobre a faculdade...</div>
   )
 }
 
-export default DpoLgpd
+export default Faculdade
